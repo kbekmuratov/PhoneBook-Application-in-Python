@@ -1,0 +1,4 @@
+Artem,3333
+Dinara,2222
+Djeen,9999
+Kairat,1111
